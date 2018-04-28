@@ -24,5 +24,16 @@
     "firebase": "^4.13.1",
     "react": "16.3.0",
     "react-native": "~0.54.1"
-  }
+  },
+  "description": "This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nileshtupe31/auth.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nileshtupe31/auth/issues"
+  },
+  "homepage": "https://github.com/nileshtupe31/auth#readme"
 }
